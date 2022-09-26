@@ -1,4 +1,5 @@
 # forum-front-end-vue
+使用版本：Vue3、bootstrap3 <br>
 
 ## Project setup
 ```
